@@ -111,19 +111,19 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Teaching"
-    title = "Teaching"
-    url = "/teaching/"
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
     weight = 2
   [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/research/"
+    name = "Teaching Statement"
+    title = "Teaching Statement"
+    url = "/teachingstatement/"
     weight = 3
   [[menu.header]]
-    name = "Artwork"
-    title = "Artwork"
-    url = "/artwork/"
+    name = "Experience"
+    title = "Experience"
+    url = "/experience/"
     weight = 4
 
     
